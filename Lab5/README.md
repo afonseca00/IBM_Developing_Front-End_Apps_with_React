@@ -1,15 +1,12 @@
-# Lab 5: E-Commerce Data Rendering using React Toolkit
+# Lab 5: Feedback Form
 
-This lab implements a simple e-commerce app using React and Redux Toolkit for state management.
+This lab implements a feedback form using React, leveraging the useState hook to manage state and handle user inputs.
 
-## Objectives:
-- Manage global state using Redux Toolkit.
-- Implement basic e-commerce features: Add to Cart, Remove from Cart, and Clear Cart.
-- Create reusable React components.
+## Learning Objectives
+- Create a form to collect user feedback.
+- Validate and confirm data before submission.
+- Reset the form after submission.
 
-## Project Structure:
-- ProductList.jsx: Displays available products.
-- ShoppingCart.jsx: Displays items added to the cart.
-- SuperCoin.jsx: Calculates and displays earned reward points.
-- CartSlice.jsx: Manages Redux state for cart operations.
-- store.js: Redux store configuration.
+## Project Structure
+- FeedbackForm.jsx: Main component implementing the feedback form.
+- FeedbackForm.css: Styling file for the feedback form.

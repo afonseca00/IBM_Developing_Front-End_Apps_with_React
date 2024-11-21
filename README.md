@@ -8,3 +8,5 @@ This repository contains all the labs from the IBM Developing Front-End Apps wit
 - [Lab 3: Todo List Application](Lab3/README.md)
 - [Lab 4: Feedback Form](Lab4/README.md)
 - [Lab 5: E-Commerce Data Rendering using React Toolkit](Lab5/README.md)
+- [Practice_Project: Conference Event Planner](Practice_Project/README.md)
+
